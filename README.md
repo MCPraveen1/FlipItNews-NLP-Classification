@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-> **Note:** GitHub may occasionally be unable to render large Jupyter notebooks directly in the browser. If the notebook preview does not load, please download `FlipItNews_NLP_Classification_Portfolio.ipynb` and open it using VS Code, Jupyter Notebook, or Google Colab.
+> **Note:** GitHub may occasionally be unable to render large Jupyter notebooks directly in the browser. If the notebook preview does not load, please download **`FlipItNews_NLP_Classification_Portfolio.ipynb`** and open it using VS Code, Jupyter Notebook, or Google Colab.
 
 
 This project develops an automated news classification system capable of categorizing news articles into predefined categories using Natural Language Processing (NLP), Machine Learning, and Transformer-based models.
